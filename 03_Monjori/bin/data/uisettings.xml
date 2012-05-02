@@ -1,0 +1,70 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>E</Name>
+    <Value>781.250000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>F</Name>
+    <Value>1700.000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>I</Name>
+    <Value>537.500000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>D</Name>
+    <Value>950.000061</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>Time</Name>
+    <Value>1650.450073</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>VolumeScale</Name>
+    <Value>4368.750000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>R</Name>
+    <Value>0.080000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>G</Name>
+    <Value>-0.440000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>B</Name>
+    <Value>-1.000000</Value>
+</Widget>
+<Widget>
+    <Kind>5</Kind>
+    <Name>A</Name>
+    <Value>1.000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>state1</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>state2</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>state3</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>state4</Name>
+    <Value>0</Value>
+</Widget>
